@@ -1,5 +1,6 @@
-print("Hello")
-print("This is our 2nd lesson")
+# import numpy as np
 
-answer = input("Write your name ")
-print(answer)
+# mas = np.ones(3)
+# print(mas)
+
+print('test')
